@@ -20,6 +20,10 @@ at epochs 10, 20, 30, 40, and 50.
 
 * results folder - Contains saved models at epochs 10, 20, 30, 40, and 50 and a text file containing the generated texts at different temperatures.
 
+## Tools
+* Python
+* Keras
+
 ## Authors
 
 Samuel Sears @ssears219
