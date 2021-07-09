@@ -2,6 +2,8 @@
 
 Training a text generation model with Keras.
 
+![Text](https://cdn.pixabay.com/photo/2017/01/18/08/25/social-media-1989152_960_720.jpg?raw=true)
+
 ## Description
 
 Using the Deep Learning with Python text as a guide, I train an LTSM text generator using Keras. For this exercise, I trained the LTSM (long short-term memory) neural network on 
